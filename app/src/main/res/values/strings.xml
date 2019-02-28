@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FitnessTrackerTrainer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="arms">armsdays</string>
+    <string name="abs">AbDays</string>
+    <string name="legs">LegDays</string>
+    <string name="tittleName">Name</string>
+    <string name="chests">chestsday</string>
+    <string name="descrip">description</string>
+    <string name="FittnessTittle">Fitness Tracker Trainer</string>
+    <string name="FitnessDescript">Please choose one of the following working out below</string>
+    <string name="Chesttitle">Chest Day</string>
+    <string name="subtitlepage">Upper | Middle | Lower</string>
+    <string name="apptitledesc">All Levels Beginner</string>
+    <string name="subIntroDesc">No Pain. No Gain. SHUT UP AND TRAIN.</string>
+    <string name="titlepages">There Is No Gain Without Pain</string>
+    <string name="subtitlepages">Continue the workout to get maximum result</string>
+    <string name="btnexercise">START EXERCISE</string>
+    <string name="homeimg">image1</string>
+    <string name="btnstart">START NOW</string>
+    <string name="btnnext">Next Workout</string>
+    <string name="letsbegin">LETS BEGIN</string>
+    <string name="Apptitle">Body Shape</string>
+    <string name="sunImtrotittle">Lets Begin</string>
+    <string name="sunIntrotittle">Choose a Workout</string>
+    <string name="Upperchest">Upper Chest</string>
+    <string name="LowerMidchest">Lower Mid Chest</string>
+    <string name="abstitle">Core Day</string>
+    <string name="absdesc">3 months from now, you will thank yourself</string>
+    <string name="absintro">Destroy Core</string>
+    <string name="armstitle">Arms Day</string>
+    <string name="armsdesc">Arms and Shoulder workout </string>
+    <string name="armsIntro">Arms Workout</string>
+    <string name="shouldertitle">Shoulder Day</string>
+    <string name="shoulderIntro">Shoulder Workout</string>
+    <string name="shoulderdesc">Between each exercise rest 2 minutes before you start the next</string>
+    <string name="legstitle">Legs Day</string>
+    <string name="legsIntro">Legs Workout</string>
+    <string name="legsDesc">Legs and Calf</string>
+    <string name="calftitle">Calf Day</string>
+    <string name="calfIntro">Calf Workout</string>
+
+</resources>
